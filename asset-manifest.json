@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rex3DDD/static/css/main.d00bb5de.css",
+    "main.js": "/Rex3DDD/static/js/main.ed49ec38.js",
+    "static/js/386.97ca3b9e.chunk.js": "/Rex3DDD/static/js/386.97ca3b9e.chunk.js",
+    "index.html": "/Rex3DDD/index.html",
+    "main.d00bb5de.css.map": "/Rex3DDD/static/css/main.d00bb5de.css.map",
+    "main.ed49ec38.js.map": "/Rex3DDD/static/js/main.ed49ec38.js.map",
+    "386.97ca3b9e.chunk.js.map": "/Rex3DDD/static/js/386.97ca3b9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d00bb5de.css",
+    "static/js/main.ed49ec38.js"
+  ]
+}
